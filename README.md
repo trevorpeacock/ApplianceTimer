@@ -93,6 +93,10 @@ The entire unit is installed in DIN rail housing along with DIN mounted power su
 
 Assembled interface. Polycarbonate cover is masked and spraypainted. Holes added for buttons. 3D printed cap covers middle button. 
 
+![ElectricalEnclosure.png](images%2FElectricalEnclosure.png)
+
+4 pole din box holds a power supply, relay, and the custom timer interface
+
 ![Overall-Side.png](images/Overall-Side.png)
 
 PCB Assembley. From Top to Bottom:
