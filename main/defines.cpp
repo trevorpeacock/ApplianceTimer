@@ -1,0 +1,9 @@
+#define LED_PIN PICO_DEFAULT_LED_PIN
+#define RELAY_PIN 15
+
+#define LEFT_BUTTON_PIN 27
+#define RIGHT_BUTTON_PIN 8
+#define CENTRE_BUTTON_PIN 9
+
+#define I2C_CLOCK 7
+#define I2C_DATA 6

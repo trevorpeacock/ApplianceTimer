@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.idea
+/lib
+/build
+/main/u8g2
